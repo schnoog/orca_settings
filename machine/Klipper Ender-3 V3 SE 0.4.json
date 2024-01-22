@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 V3 SE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END",
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature]\n",
+    "name": "Klipper Ender-3 V3 SE 0.4",
+    "printer_settings_id": "Klipper Ender-3 V3 SE 0.4",
+    "version": "1.9.0.2"
+}
