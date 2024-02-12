@@ -1,0 +1,22 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "gap_infill_speed": "35",
+    "inherits": "0.20mm Standard @Creality Ender3V3SE",
+    "initial_layer_infill_speed": "20",
+    "initial_layer_speed": "20",
+    "inner_wall_speed": "35",
+    "internal_solid_infill_speed": "35",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard TPU95A @Creality Ender3V3SE",
+    "outer_wall_speed": "35",
+    "print_settings_id": "0.20mm Standard TPU95A @Creality Ender3V3SE",
+    "sparse_infill_density": "45%",
+    "sparse_infill_speed": "35",
+    "support_interface_speed": "40",
+    "support_speed": "35",
+    "support_style": "default",
+    "support_type": "tree(manual)",
+    "top_surface_speed": "35",
+    "version": "1.9.0.2"
+}
