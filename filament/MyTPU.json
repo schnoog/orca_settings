@@ -6,7 +6,7 @@
         "5"
     ],
     "filament_settings_id": [
-        "MYTPU_95A @Ender-3V3-all"
+        "MyTPU"
     ],
     "filament_vendor": [
         "Overture"
@@ -14,12 +14,12 @@
     "from": "User",
     "inherits": "Creality Generic TPU @Ender-3V3-all",
     "is_custom_defined": "0",
-    "name": "MYTPU_95A @Ender-3V3-all",
+    "name": "MyTPU",
     "nozzle_temperature": [
         "220"
     ],
     "nozzle_temperature_initial_layer": [
         "220"
     ],
-    "version": "1.9.0.2"
+    "version": "2.1.0.0"
 }

@@ -1,0 +1,55 @@
+{
+    "before_layer_change_gcode": "",
+    "disable_m73": "0",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 V3 SE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END",
+    "machine_max_acceleration_extruding": [
+        "5000",
+        "2500"
+    ],
+    "machine_max_acceleration_retracting": [
+        "2500",
+        "500"
+    ],
+    "machine_max_acceleration_x": [
+        "5000",
+        "2500"
+    ],
+    "machine_max_acceleration_y": [
+        "5000",
+        "2500"
+    ],
+    "machine_max_speed_e": [
+        "100",
+        "40"
+    ],
+    "machine_max_speed_x": [
+        "500",
+        "250"
+    ],
+    "machine_max_speed_y": [
+        "500",
+        "250"
+    ],
+    "machine_max_speed_z": [
+        "30",
+        "5"
+    ],
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature]",
+    "name": "Klipper - Creality Ender-3 V3 SE 0.4 nozzle",
+    "print_host": "192.168.178.35",
+    "print_host_webui": "http://192.168.178.35:9999",
+    "printer_settings_id": "Klipper - Creality Ender-3 V3 SE 0.4 nozzle",
+    "printhost_apikey": "B285B77485664173A8C0AC3A7A4396D7",
+    "retraction_speed": [
+        "30"
+    ],
+    "thumbnails": [
+        "96x96",
+        "300x300"
+    ],
+    "version": "2.1.0.0"
+}

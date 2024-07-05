@@ -1,0 +1,23 @@
+{
+    "default_jerk": "8",
+    "from": "User",
+    "gap_infill_speed": "40",
+    "infill_jerk": "20",
+    "inherits": "0.20mm Standard @Creality Ender3V3SE 0.4",
+    "initial_layer_infill_speed": "20",
+    "initial_layer_jerk": "8",
+    "initial_layer_speed": "20",
+    "inner_wall_jerk": "20",
+    "inner_wall_speed": "35",
+    "internal_solid_infill_speed": "35",
+    "is_custom_defined": "0",
+    "name": "MyTPU_0.2mm",
+    "outer_wall_jerk": "20",
+    "outer_wall_speed": "35",
+    "print_settings_id": "MyTPU_0.2mm",
+    "sparse_infill_speed": "35",
+    "top_surface_jerk": "20",
+    "top_surface_speed": "35",
+    "travel_jerk": "8",
+    "version": "2.1.0.0"
+}

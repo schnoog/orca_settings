@@ -9,13 +9,16 @@
         "1"
     ],
     "filament_retraction_length": [
-        "1.5"
+        "1.4"
     ],
     "filament_retraction_speed": [
         "25"
     ],
     "filament_settings_id": [
         "MyPETG"
+    ],
+    "filament_vendor": [
+        "M4P"
     ],
     "filament_z_hop": [
         "0.4"
@@ -34,10 +37,13 @@
     "is_custom_defined": "0",
     "name": "MyPETG",
     "nozzle_temperature": [
-        "232"
+        "242"
     ],
     "nozzle_temperature_initial_layer": [
-        "232"
+        "242"
     ],
-    "version": "1.9.0.2"
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "version": "2.1.0.0"
 }
